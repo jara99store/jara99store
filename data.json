@@ -1,0 +1,154 @@
+{
+  "categories": [
+    {
+      "id": "kitchen",
+      "name": "Kitchen & Home",
+      "icon": "🍳",
+      "desc": "রান্নাঘর ও ঘরের নিত্যদিনের জিনিসপত্র"
+    },
+    {
+      "id": "toys",
+      "name": "Toys & Games",
+      "icon": "🧸",
+      "desc": "বাচ্চাদের খেলনা ও গেম আইটেম"
+    },
+    {
+      "id": "gift",
+      "name": "Gift Items",
+      "icon": "🎁",
+      "desc": "উপহার ও ডেকোর আইটেম"
+    },
+    {
+      "id": "daily",
+      "name": "Daily Use Products",
+      "icon": "🧴",
+      "desc": "প্রতিদিনের প্রয়োজনীয় জিনিস"
+    },
+    {
+      "id": "mobile",
+      "name": "Mobile Accessories",
+      "icon": "📱",
+      "desc": "মোবাইল ও ইলেকট্রনিক্স এক্সেসরিজ"
+    },
+    {
+      "id": "trending",
+      "name": "Trending Products",
+      "icon": "🔥",
+      "desc": "সোশ্যাল মিডিয়ায় ভাইরাল সেরা পণ্য"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Panda Night Lamp (USB Rechargeable)",
+      "price": 99,
+      "oldPrice": 199,
+      "category": "trending",
+      "desc": "৪ কালার লাইট, দীর্ঘ ব্যাকআপ, বাচ্চা ও ঘর সাজানোর জন্য পারফেক্ট।",
+      "image": "assets/promo-trending.jpg",
+      "showPrice": true
+    },
+    {
+      "id": "p2",
+      "name": "Kitchen Storage Container Set",
+      "price": 99,
+      "oldPrice": 149,
+      "category": "kitchen",
+      "desc": "এয়ারটাইট ৩ পিস কন্টেইনার সেট, রান্নাঘরের জন্য প্রয়োজনীয়।",
+      "image": "assets/promo-categories.jpg",
+      "showPrice": true
+    },
+    {
+      "id": "p3",
+      "name": "Teddy Bear Gift Combo",
+      "price": 99,
+      "oldPrice": 179,
+      "category": "gift",
+      "desc": "নরম টেডি বিয়ার, উপহার দেওয়ার জন্য একদম পারফেক্ট।",
+      "image": "assets/promo-categories.jpg",
+      "showPrice": true
+    },
+    {
+      "id": "p4",
+      "name": "Kids Toy Car & Doll Set",
+      "price": 99,
+      "oldPrice": 159,
+      "category": "toys",
+      "desc": "বাচ্চাদের পছন্দের খেলনার সেরা কালেকশন।",
+      "image": "assets/promo-categories.jpg",
+      "showPrice": true
+    },
+    {
+      "id": "p5",
+      "name": "Mobile Stand + Earphone Combo",
+      "price": 99,
+      "oldPrice": 199,
+      "category": "mobile",
+      "desc": "ফোল্ডেবল মোবাইল স্ট্যান্ড সাথে ইয়ারফোন।",
+      "image": "assets/banner-shop.jpg",
+      "showPrice": true
+    },
+    {
+      "id": "p6",
+      "name": "Daily Use Stationery Pack",
+      "price": 99,
+      "oldPrice": 129,
+      "category": "daily",
+      "desc": "পেন, নোটবুক ও প্রয়োজনীয় স্টেশনারি আইটেম একসাথে।",
+      "image": "assets/promo-categories.jpg",
+      "showPrice": true
+    }
+  ],
+  "combos": [
+    {
+      "id": "c1",
+      "name": "Kitchen Combo",
+      "icon": "🍳",
+      "items": "৩টি কিচেন আইটেম একসাথে বিশেষ দামে",
+      "price": 249
+    },
+    {
+      "id": "c2",
+      "name": "Kids Combo",
+      "icon": "🧸",
+      "items": "৩টি খেলনা একসাথে বিশেষ দামে",
+      "price": 249
+    },
+    {
+      "id": "c3",
+      "name": "Gift Combo",
+      "icon": "🎁",
+      "items": "টেডি + মগ + ফটোফ্রেম কম্বো",
+      "price": 249
+    },
+    {
+      "id": "c4",
+      "name": "Daily Use Combo",
+      "icon": "🧴",
+      "items": "৪টি ডেইলি ইউজ প্রোডাক্ট একসাথে",
+      "price": 299
+    }
+  ],
+  "store": {
+    "name": "JARA 99 STORE",
+    "sloganBn": "কম দাম, নিশ্চিন্ত কেনাকাটা।",
+    "sloganEn": "Quality You Can Trust, Prices You'll Love.",
+    "tagline": "এক দাম, সেরা মান, সবার জন্য",
+    "phone": "918918703678",
+    "whatsapp": "917063754644",
+    "email": "jara99store@gmail.com",
+    "address": "Nimdanri Railway Station, Taki Road, Basirhat, North 24 Parganas, West Bengal – 743429",
+    "hours": "প্রতিদিন সকাল ৮:০০ – রাত ১০:৩০ (Open Daily 8:00 AM – 10:30 PM)",
+    "mapEmbed": "https://www.google.com/maps?q=Nimdanri+Railway+Station+Taki+Road+Basirhat&output=embed",
+    "facebook": "https://www.facebook.com/share/1Js9TF5kCe/",
+    "instagram": "https://www.instagram.com/jara99store?igsh=ZTBhcmRhcnoyNGkz",
+    "payments": [
+      "UPI",
+      "Google Pay",
+      "PhonePe",
+      "Paytm",
+      "Bank Transfer",
+      "Cash"
+    ]
+  }
+}
